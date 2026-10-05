@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="UrbanSense Fleet GPS">
+  <trk>
+    <name>Pune Route 01 - Swargate to Baner</name>
+    <trkseg>
+      <trkpt lat="18.5018" lon="73.8584"><time>2026-10-04T08:00:00Z</time></trkpt>
+      <trkpt lat="18.5050" lon="73.8548"><time>2026-10-04T08:00:02Z</time></trkpt>
+      <trkpt lat="18.5085" lon="73.8512"><time>2026-10-04T08:00:04Z</time></trkpt>
+      <trkpt lat="18.5129" lon="73.8463"><time>2026-10-04T08:00:06Z</time></trkpt>
+      <trkpt lat="18.5173" lon="73.8415"><time>2026-10-04T08:00:08Z</time></trkpt>
+      <trkpt lat="18.5210" lon="73.8411"><time>2026-10-04T08:00:10Z</time></trkpt>
+      <trkpt lat="18.5246" lon="73.8407"><time>2026-10-04T08:00:12Z</time></trkpt>
+      <trkpt lat="18.5280" lon="73.8470"><time>2026-10-04T08:00:14Z</time></trkpt>
+      <trkpt lat="18.5314" lon="73.8532"><time>2026-10-04T08:00:16Z</time></trkpt>
+      <trkpt lat="18.5363" lon="73.8415"><time>2026-10-04T08:00:18Z</time></trkpt>
+      <trkpt lat="18.5412" lon="73.8298"><time>2026-10-04T08:00:20Z</time></trkpt>
+      <trkpt lat="18.5497" lon="73.8186"><time>2026-10-04T08:00:22Z</time></trkpt>
+      <trkpt lat="18.5582" lon="73.8075"><time>2026-10-04T08:00:24Z</time></trkpt>
+      <trkpt lat="18.5612" lon="73.7996"><time>2026-10-04T08:00:26Z</time></trkpt>
+      <trkpt lat="18.5642" lon="73.7918"><time>2026-10-04T08:00:28Z</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
